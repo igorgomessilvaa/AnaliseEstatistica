@@ -1,0 +1,25 @@
+Variaveis,Tipo da variavel,Valores possiveis das variaveis
+make,Qualitativa,Nomes das montadoras abrangidas pelo dataset
+fuel.type,Qualitativa,"diesel, gas "
+aspiration,Qualitativa,"std, turbo "
+num.doors,Qualitativa,"four, two "
+body.style,Qualitativa,"hardtop, wagon, sedan, hatchback, convertible "
+drive.wheels,Qualitativa,"4wd, fwd, rwd "
+engine.location,Qualitativa,"front, rear "
+wheel.base,Quantitativa Continua,86.6 ate 120.9 
+lenght,Quantitativa Continua,141.1 ate 208.1 
+width,Quantitativa Continua,60.3 ate 72.3 
+height,Quantitativa Continua,47.8 ate 59.8 
+curb.weight,Quantitativa Continua,1488 ate 4066 
+engine.type,Qualitativa,"dohc, dohcv, l, ohc, ohcf, ohcv, roto "
+num.cilynders,Qualitativa,"eight, five, four, six, three, twelve, two "
+engine.size,Qualitativa,61 ate 326 
+fuel.system,Qualitativa,"1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi "
+bore,Quantitativa Continua,2.54 ate 3.94 
+stroke,Quantitativa Contnua,2.07 ate 4.17 
+compression.ratio,Quantitativa Contnua,7 ate 23 
+horsepower,Quantitativa Discreta,48 ate 288 
+peak.rpm,Quantitativa discreta,4150 ate 6600 
+city.mpg,Quantitativa Discreta,13 ate 49 
+highway.mpg,Quantitativa Discreta,16 ate 54
+price,Quantitativa Discreta,5118 ate 45400 
